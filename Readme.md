@@ -60,14 +60,6 @@ SmartRecruit introduces a multi-dimensional recruitment workflow with three comp
 
 Explore our comprehensive project architecture through our **[Excalidraw Flowchart](https://excalidraw.com/#room=1633dcdffa2468e9eb2f,7stmYtK6Sc87v3dltyQsrQ)**.
 
-## 📚 Detailed Documentation
-
-Dive deep into our project with **[SmartRecruit Documentation PDF](https://www.clashofcodes.in/media/solutions/CodeBros-48_btOrpfN.pdf)**.
-
-## 🎥 Project Overview Video
-
-Watch the detailed project overview in our [**YouTube Video**](https://www.youtube.com/watch?v=YWyGYaexbNk).
-
 
 --- 
 
@@ -115,7 +107,7 @@ Ensure the following technologies are installed:
 
 **Need Environment Variables?**
 
-- **Contact**: [smartrecruitt@gmail.com](mailto:smartrecruitt@gmail.com)
+- **Contact**: [smartrecruitt@gmail.com](mailto:vaibhavsinghvi254@gmail.com)
 
 ## 💻 Technology Stack
 
@@ -185,7 +177,7 @@ We warmly welcome community contributions!
 
 ## 📧 Connect With Us
 
-- **Project Support**: [smartrecruitt@gmail.com](mailto:smartrecruitt@gmail.com)
+- **Project Support**: [smartrecruitt@gmail.com](mailto:vaibhavsinghvi254@gmail.com)
 
 ## 🌟 Our Vision
 
